@@ -1,0 +1,7 @@
+version: "3.3.0"
+description: "A C99 library for parsing command-line arguments"
+url: "https://github.com/Tawank/args"
+repository: "https://github.com/Tawank/args.git"
+license: "0BSD"
+dependencies:
+  idf: ">=5.1"
